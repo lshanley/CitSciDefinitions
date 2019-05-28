@@ -1,0 +1,2 @@
+# CitSciDefinitions
+Citizen Science Definitions
